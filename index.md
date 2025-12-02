@@ -41,7 +41,6 @@ Includes exploratory work, empirical variogram computation, model fitting, and a
 ---
 
 # 📬 Contact
-- 📧 Email: **youremail@example.com**  
-- 🔗 LinkedIn: [your-profile-link](https://www.linkedin.com/in/YOURNAME/)  
-- 🐙 GitHub: [https://github.com/TUOUSERNAME](https://github.com/TUOUSERNAME)
-
+- 📧 Email: **massimoarmano.ov@gmail.com**  
+- 🔗 LinkedIn: [Massimo Armano](https://www.linkedin.com/in/massimo-armano-107174176/)  
+- 🐙 GitHub: [Massimo-ov](https://github.com/Massimo-ov)
