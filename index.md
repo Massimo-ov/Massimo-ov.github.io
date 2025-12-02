@@ -1,6 +1,5 @@
-<link rel="stylesheet" href="style.css">
 <p align="center">
-  <img src="assets/img/profile.jpg" alt="Profile photo" width="150" style="border-radius: 50%; margin-bottom: 20px;">
+  <img src="assets/img/profile.jpg" alt="Profile photo" width="150" style="border-radius:50%; margin-bottom:20px;">
 </p>
 
 ## About Me
@@ -20,35 +19,31 @@ This portfolio collects selected academic and applied projects.
 
 # Projects
 
-<div class="card-container">
+<div style="display:flex; flex-wrap:wrap; gap:20px; margin-top:30px;">
 
-<div class="card">
-<h3>Sparse Bayesian Infinite Factor Model</h3>
-<p><strong>Master’s Thesis – Application to NIRS Data</strong></p>
+  <div style="flex:1 1 calc(50% - 20px); background:#fff; border-radius:12px; padding:20px; box-shadow:0 3px 8px rgba(0,0,0,0.12); border:1px solid #e3e3e3; margin-bottom:20px;">
+    <h3>Sparse Bayesian Infinite Factor Model</h3>
+    <p><strong>Master’s Thesis – Application to NIRS Data</strong></p>
+    <p>
+      Development of an infinite Bayesian factor model with sparsity-inducing priors applied to NIRS data.  
+      Includes hierarchical modeling, MCMC implementation and interpretability analysis.
+    </p>
+    <a href="assets/docs/thesis.pdf" style="display:inline-block; margin-right:10px; margin-top:8px; text-decoration:none; color:#0366d6; font-weight:600;">Thesis PDF</a>
+    <a href="assets/docs/thesis-presentation.pdf" style="display:inline-block; margin-right:10px; margin-top:8px; text-decoration:none; color:#0366d6; font-weight:600;">Presentation</a>
+    <a href="https://github.com/Massimo-ov/NIRS-factor-model" style="display:inline-block; margin-right:10px; margin-top:8px; text-decoration:none; color:#0366d6; font-weight:600;">GitHub Repository</a>
+  </div>
 
-<p>
-Development of an infinite Bayesian factor model with sparsity-inducing priors applied to NIRS data.  
-Includes hierarchical modeling, MCMC implementation and interpretability analysis.
-</p>
-
-<a href="assets/docs/thesis.pdf">Thesis PDF</a>
-<a href="assets/docs/thesis-presentation.pdf">Presentation</a>
-<a href="https://github.com/Massimo-ov/NIRS-factor-model">GitHub Repository</a>
-</div>
-
-<div class="card">
-<h3>Variography Project (UniTo)</h3>
-<p><strong>Exploratory Analysis and Variogram Modeling</strong></p>
-
-<p>
-University project with Matteo Cucca under the supervision of Rosaria Ignaccolo.  
-Includes exploratory tools, empirical variogram computation, model fitting, and an R Markdown workflow.
-</p>
-
-<a href="assets/docs/HW4_Cucca_Armano.pdf">R Markdown / PDF</a>
-<a href="assets/docs/STATISTICA SPAZIALE pres2024.ppt">Presentation</a>
-<a href="https://github.com/Massimo-ov/variography-project">GitHub Repository</a>
-</div>
+  <div style="flex:1 1 calc(50% - 20px); background:#fff; border-radius:12px; padding:20px; box-shadow:0 3px 8px rgba(0,0,0,0.12); border:1px solid #e3e3e3; margin-bottom:20px;">
+    <h3>Variography Project (UniTo)</h3>
+    <p><strong>Exploratory Analysis and Variogram Modeling</strong></p>
+    <p>
+      University project with Matteo Cucca under the supervision of Rosaria Ignaccolo.  
+      Includes exploratory tools, empirical variogram computation, model fitting, and an R Markdown workflow.
+    </p>
+    <a href="assets/docs/HW4_Cucca_Armano.pdf" style="display:inline-block; margin-right:10px; margin-top:8px; text-decoration:none; color:#0366d6; font-weight:600;">R Markdown / PDF</a>
+    <a href="assets/docs/STATISTICA SPAZIALE pres2024.ppt" style="display:inline-block; margin-right:10px; margin-top:8px; text-decoration:none; color:#0366d6; font-weight:600;">Presentation</a>
+    <a href="https://github.com/Massimo-ov/variography-project" style="display:inline-block; margin-right:10px; margin-top:8px; text-decoration:none; color:#0366d6; font-weight:600;">GitHub Repository</a>
+  </div>
 
 </div>
 
