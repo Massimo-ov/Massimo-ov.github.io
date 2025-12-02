@@ -25,7 +25,7 @@ This portfolio collects selected academic and applied projects.
     <h3>Sparse Bayesian Infinite Factor Model</h3>
     <p><strong>Master’s Thesis – Application to NIRS Data</strong></p>
     <p>
-      Development of an infinite Bayesian factor model with sparsity-inducing priors applied to NIRS data.  
+     Application on NIRS data of Sparse Bayesian infinite factor model.  
       Includes hierarchical modeling, MCMC implementation and interpretability analysis.
     </p>
     <a href="assets/docs/thesis.pdf" style="display:inline-block; margin-right:10px; margin-top:8px; text-decoration:none; color:#0366d6; font-weight:600;">Thesis PDF</a>
