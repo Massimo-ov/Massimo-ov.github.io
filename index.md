@@ -1,31 +1,4 @@
-<style>
-.card-container {
-  display: flex;
-  flex-wrap: wrap;
-  gap: 20px;
-  margin-top: 30px;
-}
-.card {
-  flex: 1 1 calc(50% - 20px);
-  background: #ffffff;
-  border-radius: 12px;
-  padding: 20px;
-  box-shadow: 0 3px 8px rgba(0,0,0,0.12);
-  border: 1px solid #e3e3e3;
-}
-.card h3 {
-  margin-top: 0;
-}
-.card a {
-  display: inline-block;
-  margin-right: 10px;
-  margin-top: 8px;
-  text-decoration: none;
-  color: #0366d6;
-  font-weight: 600;
-}
-</style>
-
+<link rel="stylesheet" href="style.css">
 <p align="center">
   <img src="assets/img/profile.jpg" alt="Profile photo" width="150" style="border-radius: 50%; margin-bottom: 20px;">
 </p>
@@ -73,7 +46,7 @@ Includes exploratory tools, empirical variogram computation, model fitting, and 
 </p>
 
 <a href="assets/docs/HW4_Cucca_Armano.pdf">R Markdown / PDF</a>
-<a href="assets/docs/variography-presentation.ppt">Presentation</a>
+<a href="assets/docs/STATISTICA SPAZIALE pres2024.ppt">Presentation</a>
 <a href="https://github.com/Massimo-ov/variography-project">GitHub Repository</a>
 </div>
 
@@ -83,7 +56,7 @@ Includes exploratory tools, empirical variogram computation, model fitting, and 
 
 # Contact
 
-- Email: youremail@example.com  
+- Email: massimoarmano.ov@gmail.com  
 - LinkedIn: [Massimo Armano](https://www.linkedin.com/in/massimo-armano-107174176/)  
 - GitHub: [Massimo-ov](https://github.com/Massimo-ov)
 
