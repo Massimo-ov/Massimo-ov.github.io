@@ -19,42 +19,37 @@ I am currently expanding my open-source portfolio and developing advanced skills
 
 ---
 
-## 📂 Projects
+# 📘 Projects
 
-### **1. Sparse Bayesian Infinite Factor Model — Thesis Project**
-A full Bayesian nonparametric factor model with applications to **NIRS (Near-Infrared Spectroscopy) data**, developed as part of my Master’s thesis.
+## 🔵 Sparse Bayesian Infinite Factor Model  
+**(Master’s Thesis – Application to NIRS Data)**  
 
-**Includes**:  
-- Full thesis PDF  
-- Slides presentation  
-- GitHub repository
+This thesis develops an infinite Bayesian factor model with sparsity-inducing priors, applied to NIRS data.  
+The work includes hierarchical modeling, MCMC implementation, and factor interpretation.
 
-👉 **GitHub:** [Sparse Bayesian Infinite Factor Model](https://github.com/Massimo-ov)  
-👉 **Thesis PDF:** *(upload your thesis in `/assets/docs` and link here)*  
-👉 **Slides:** *(upload your slides in `/assets/docs` and link here)*
+- 📄 [Thesis PDF](assets/docs/thesis.pdf)  
+- 🖼️ [Presentation](assets/docs/thesis-presentation.pdf)  
+- 🔗 [GitHub Repository](https://github.com/Massimo-ov/NIRS-factor-model)
 
 ---
 
-### **2. UniTo Statistical Project — Variogram & Exploratory Data Analysis**
-A markdown-based project developed with Matteo Cucca under the supervision of Prof. Rosaria Ignaccolo.  
-Focus on variogram analysis, model exploration, and spatial exploratory tools.
+## 🔵 Variography Project (UniTo)  
+**Exploratory Analysis and Variogram Modeling**  
 
-**Includes**:  
-- Project markdown  
-- GitHub repository  
-- Presentation HTML/PDF
+University project conducted with Matteo Cucca under the supervision of Rosaria Ignaccolo.  
+Includes exploratory work, empirical variogram computation, model fitting, and a complete R Markdown workflow.
 
-👉 **GitHub:** *(insert link to the project repo)*  
-👉 **Project Markdown:** *(upload and link your `.md` or rendered PDF)*  
-👉 **Presentation:** *(optional)*
+- 📝 [R Markdown / HTML](assets/docs/variography-project.html)  
+- 🖼️ [Presentation](assets/docs/variography-presentation.pdf)  
+- 🔗 [GitHub Repository](https://github.com/Massimo-ov/variography-project)
 
 ---
 
-## 📬 Contact
+# 📬 Contact
+- 📧 Email: **youremail@example.com**  
+- 🔗 LinkedIn: [Massimo Armano](https://www.linkedin.com/in/massimo-armano-107174176/)  
+- 🐙 GitHub: [Massimo-ov](https://github.com/Massimo-ov)
 
-- 💼 **LinkedIn:** [Massimo Armano](https://www.linkedin.com/in/massimo-armano-107174176)  
-- 🧑‍💻 **GitHub:** [Massimo-ov](https://github.com/Massimo-ov)  
-- 📧 **Email:** *(optional — you can add it if you want)*
 
 ---
 
