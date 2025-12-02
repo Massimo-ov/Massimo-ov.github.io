@@ -3,8 +3,8 @@
   display: flex;
   flex-wrap: wrap;
   gap: 20px;
+  margin-top: 30px;
 }
-
 .card {
   flex: 1 1 calc(50% - 20px);
   background: #ffffff;
@@ -13,15 +13,9 @@
   box-shadow: 0 3px 8px rgba(0,0,0,0.12);
   border: 1px solid #e3e3e3;
 }
-
 .card h3 {
   margin-top: 0;
 }
-
-.card p {
-  margin-bottom: 10px;
-}
-
 .card a {
   display: inline-block;
   margin-right: 10px;
@@ -32,74 +26,69 @@
 }
 </style>
 
-# 👋 Welcome to My Statistical Projects Portfolio
-
 <p align="center">
-  <img src="assets/img/profile.jpg" alt="profile photo" width="170" style="border-radius: 50%; margin-bottom: 20px;">
+  <img src="assets/img/profile.jpg" alt="Profile photo" width="150" style="border-radius: 50%; margin-bottom: 20px;">
 </p>
 
-## 🧑‍💻 About Me
+## About Me
 
-I am a recent graduate with a Master’s degree in **Statistics** from the University of Turin.  
-My interests include:
+I am a recent graduate with a Master’s degree in Statistics from the University of Turin.  
+My areas of interest include:
 
 - Data Science  
 - Bayesian Statistics  
 - Factor Analysis  
 - Big Data Analytics  
 
-I enjoy statistical modeling, Bayesian inference, computational methods, and building reproducible research workflows.  
-Currently, I am expanding my open-source portfolio with advanced statistical and data science projects.
+I enjoy statistical modeling, Bayesian inference, computational methods and reproducible research.  
+This portfolio collects selected academic and applied projects.
 
 ---
 
-# 📘 Projects
+# Projects
 
 <div class="card-container">
 
 <div class="card">
+<h3>Sparse Bayesian Infinite Factor Model</h3>
+<p><strong>Master’s Thesis – Application to NIRS Data</strong></p>
 
-### 🔵 Sparse Bayesian Infinite Factor Model  
-**Master’s Thesis – Application to NIRS Data**
+<p>
+Development of an infinite Bayesian factor model with sparsity-inducing priors applied to NIRS data.  
+Includes hierarchical modeling, MCMC implementation and interpretability analysis.
+</p>
 
-This thesis develops an infinite Bayesian factor model with sparsity-inducing priors, applied to NIRS data.  
-Includes hierarchical modeling, MCMC implementation, and factor interpretability analysis.
-
-**Links:**  
-- 📄 <a href="assets/docs/thesis.pdf">Thesis PDF</a>  
-- 🖼️ <a href="assets/docs/thesis-presentation.pdf">Presentation</a>  
-- 🔗 <a href="https://github.com/Massimo-ov/NIRS-factor-model">GitHub Repository</a>
-
+<a href="assets/docs/thesis.pdf">Thesis PDF</a>
+<a href="assets/docs/thesis-presentation.pdf">Presentation</a>
+<a href="https://github.com/Massimo-ov/NIRS-factor-model">GitHub Repository</a>
 </div>
 
 <div class="card">
+<h3>Variography Project (UniTo)</h3>
+<p><strong>Exploratory Analysis and Variogram Modeling</strong></p>
 
-### 🔵 Variography Project (UniTo)  
-**Exploratory Analysis and Variogram Modeling**
-
+<p>
 University project with Matteo Cucca under the supervision of Rosaria Ignaccolo.  
-Includes exploratory tools, empirical variogram computation, model fitting, and a complete R Markdown workflow.
+Includes exploratory tools, empirical variogram computation, model fitting, and an R Markdown workflow.
+</p>
 
-**Links:**  
-- 📝 <a href="assets/docs/variography-project.html">R Markdown / HTML</a>  
-- 🖼️ <a href="assets/docs/variography-presentation.pdf">Presentation</a>  
-- 🔗 <a href="https://github.com/Massimo-ov/variography-project">GitHub Repository</a>
-
+<a href="assets/docs/HW4_Cucca_Armano.pdf">R Markdown / PDF</a>
+<a href="assets/docs/variography-presentation.ppt">Presentation</a>
+<a href="https://github.com/Massimo-ov/variography-project">GitHub Repository</a>
 </div>
 
 </div>
 
 ---
 
-# 📬 Contact
+# Contact
 
-- 📧 **youremail@example.com**  
-- 🔗 **LinkedIn:** [Massimo Armano](https://www.linkedin.com/in/massimo-armano-107174176/)  
-- 🐙 **GitHub:** [Massimo-ov](https://github.com/Massimo-ov)
+- Email: youremail@example.com  
+- LinkedIn: [Massimo Armano](https://www.linkedin.com/in/massimo-armano-107174176/)  
+- GitHub: [Massimo-ov](https://github.com/Massimo-ov)
 
 ---
 
 <p align="center">
   <sub>© 2025 Massimo Armano — Portfolio powered by GitHub Pages</sub>
 </p>
-
