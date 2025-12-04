@@ -1,6 +1,13 @@
 <p align="center">
-  <img src="assets/docs/profile_pic.jpg" alt="Profile photo" width="150" style="border-radius:50%; margin-bottom:20px;">
+  <img src="assets/docs/profile_pic.jpg"
+       alt="Profile photo"
+       width="180"
+       style="border-radius:50%;
+              margin-bottom:25px;
+              box-shadow:0 4px 12px rgba(0,0,0,0.15);
+              border:4px solid #fff;">
 </p>
+
 
 ## About Me
 
