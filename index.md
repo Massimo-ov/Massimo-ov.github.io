@@ -37,7 +37,7 @@ This portfolio collects selected academic and applied projects.
     </p>
     <a href="assets/docs/thesis.pdf" style="display:inline-block; margin-right:10px; margin-top:8px; text-decoration:none; color:#0366d6; font-weight:600;">Thesis PDF</a>
     <a href="assets/docs/thesis_pres.pdf" style="display:inline-block; margin-right:10px; margin-top:8px; text-decoration:none; color:#0366d6; font-weight:600;">Presentation</a>
-    <a href="https://github.com/Massimo-ov/NIRS-factor-model" style="display:inline-block; margin-right:10px; margin-top:8px; text-decoration:none; color:#0366d6; font-weight:600;">GitHub Repository</a>
+    <a href="https://github.com/Massimo-ov/Master-s-thesis-Sparse-Bayesian-infinite-factor-model-applications-on-NIRS-data-" style="display:inline-block; margin-right:10px; margin-top:8px; text-decoration:none; color:#0366d6; font-weight:600;">GitHub Repository</a>
   </div>
 
   <div style="flex:1 1 calc(50% - 20px); background:#fff; border-radius:12px; padding:20px; box-shadow:0 3px 8px rgba(0,0,0,0.12); border:1px solid #e3e3e3; margin-bottom:20px;">
@@ -49,7 +49,7 @@ This portfolio collects selected academic and applied projects.
     </p>
     <a href="assets/docs/HW4_Cucca_Armano.pdf" style="display:inline-block; margin-right:10px; margin-top:8px; text-decoration:none; color:#0366d6; font-weight:600;">R Markdown / PDF</a>
     <a href="assets/docs/STATISTICA SPAZIALE pres2024.pptx" style="display:inline-block; margin-right:10px; margin-top:8px; text-decoration:none; color:#0366d6; font-weight:600;">Presentation</a>
-    <a href="https://github.com/Massimo-ov/variography-project" style="display:inline-block; margin-right:10px; margin-top:8px; text-decoration:none; color:#0366d6; font-weight:600;">GitHub Repository</a>
+    <a href="https://github.com/Massimo-ov/UniTo-spatial-statistic-project-" style="display:inline-block; margin-right:10px; margin-top:8px; text-decoration:none; color:#0366d6; font-weight:600;">GitHub Repository</a>
   </div>
 
 </div>
