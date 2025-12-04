@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/img/profile_pic.jpg" alt="Profile photo" width="150" style="border-radius:50%; margin-bottom:20px;">
+  <img src="assets/docs/profile_pic.jpg" alt="Profile photo" width="150" style="border-radius:50%; margin-bottom:20px;">
 </p>
 
 ## About Me
