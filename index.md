@@ -1,15 +1,15 @@
-<div style="display:flex; align-items:center; gap:30px; margin-top:20px; flex-wrap:wrap;">
+<div style="display:flex; align-items:center; gap:35px; margin-top:20px; flex-wrap:wrap;">
 
-  <!-- FOTO TONDA -->
+  
   <img src="assets/docs/profile_pic.jpg"
        alt="Profile photo"
-       width="160"
-       style="border-radius:50%; 
-              box-shadow:0 4px 12px rgba(0,0,0,0.15);
-              border:4px solid #fff;">
+       width="230"
+       style="border-radius:12px;
+              box-shadow:0 4px 14px rgba(0,0,0,0.18);
+              border:3px solid #fff;">
 
   <!-- TESTO ABOUT ME -->
-  <div style="flex:1; min-width:250px;">
+  <div style="flex:1; min-width:260px;">
     <h2>About Me</h2>
 
     <p>
@@ -31,7 +31,10 @@
   </div>
 
 </div>
+
 ---
+
+
 
 # Projects
 
