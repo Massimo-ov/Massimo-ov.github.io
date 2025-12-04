@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/img/profile.jpg" alt="Profile photo" width="150" style="border-radius:50%; margin-bottom:20px;">
+  <img src="assets/img/profile_pic.jpg" alt="Profile photo" width="150" style="border-radius:50%; margin-bottom:20px;">
 </p>
 
 ## About Me
@@ -29,7 +29,7 @@ This portfolio collects selected academic and applied projects.
       Includes hierarchical modeling, MCMC implementation and interpretability analysis.
     </p>
     <a href="assets/docs/thesis.pdf" style="display:inline-block; margin-right:10px; margin-top:8px; text-decoration:none; color:#0366d6; font-weight:600;">Thesis PDF</a>
-    <a href="assets/docs/thesis-presentation.pdf" style="display:inline-block; margin-right:10px; margin-top:8px; text-decoration:none; color:#0366d6; font-weight:600;">Presentation</a>
+    <a href="assets/docs/thesis_pres.pdf" style="display:inline-block; margin-right:10px; margin-top:8px; text-decoration:none; color:#0366d6; font-weight:600;">Presentation</a>
     <a href="https://github.com/Massimo-ov/NIRS-factor-model" style="display:inline-block; margin-right:10px; margin-top:8px; text-decoration:none; color:#0366d6; font-weight:600;">GitHub Repository</a>
   </div>
 
@@ -41,7 +41,7 @@ This portfolio collects selected academic and applied projects.
       Includes exploratory tools, empirical variogram computation, model fitting, and an R Markdown workflow.
     </p>
     <a href="assets/docs/HW4_Cucca_Armano.pdf" style="display:inline-block; margin-right:10px; margin-top:8px; text-decoration:none; color:#0366d6; font-weight:600;">R Markdown / PDF</a>
-    <a href="assets/docs/STATISTICA SPAZIALE pres2024.ppt" style="display:inline-block; margin-right:10px; margin-top:8px; text-decoration:none; color:#0366d6; font-weight:600;">Presentation</a>
+    <a href="assets/docs/STATISTICA SPAZIALE pres2024.pptx" style="display:inline-block; margin-right:10px; margin-top:8px; text-decoration:none; color:#0366d6; font-weight:600;">Presentation</a>
     <a href="https://github.com/Massimo-ov/variography-project" style="display:inline-block; margin-right:10px; margin-top:8px; text-decoration:none; color:#0366d6; font-weight:600;">GitHub Repository</a>
   </div>
 
