@@ -1,27 +1,36 @@
-<p align="center">
+<div style="display:flex; align-items:center; gap:30px; margin-top:20px; flex-wrap:wrap;">
+
+  <!-- FOTO TONDA -->
   <img src="assets/docs/profile_pic.jpg"
        alt="Profile photo"
-       width="180"
-       style="border-radius:50%;
-              margin-bottom:25px;
+       width="160"
+       style="border-radius:50%; 
               box-shadow:0 4px 12px rgba(0,0,0,0.15);
               border:4px solid #fff;">
-</p>
 
+  <!-- TESTO ABOUT ME -->
+  <div style="flex:1; min-width:250px;">
+    <h2>About Me</h2>
 
-## About Me
+    <p>
+      I am a recent graduate with a Master’s degree in Statistics from the University of Turin.  
+      My areas of interest include:
+    </p>
 
-I am a recent graduate with a Master’s degree in Statistics from the University of Turin.  
-My areas of interest include:
+    <ul>
+      <li>Data Science</li>
+      <li>Bayesian Statistics</li>
+      <li>Factor Analysis</li>
+      <li>Big Data Analytics</li>
+    </ul>
 
-- Data Science  
-- Bayesian Statistics  
-- Factor Analysis  
-- Big Data Analytics  
+    <p>
+      I enjoy statistical modeling, Bayesian inference, computational methods and reproducible research.  
+      This portfolio collects selected academic and applied projects.
+    </p>
+  </div>
 
-I enjoy statistical modeling, Bayesian inference, computational methods and reproducible research.  
-This portfolio collects selected academic and applied projects.
-
+</div>
 ---
 
 # Projects
