@@ -21,7 +21,6 @@
       <li>Data Science</li>
       <li>Bayesian Statistics</li>
       <li>Factor Analysis</li>
-      <li>Big Data Analytics</li>
     </ul>
 
     <p>
