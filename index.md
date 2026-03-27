@@ -13,20 +13,17 @@
     <h2>About Me</h2>
 
     <p>
-      I am a recent graduate with a Master’s degree in Statistics from the University of Turin.  
-      My areas of interest include:
-    </p>
+  I’m a recent Statistics graduate with a strong interest in data analysis and data-driven problem solving. 
+  I enjoy working with data to uncover patterns, build models, and turn information into meaningful insights.
+</p>
 
-    <ul>
-      <li>Data Science</li>
-      <li>Bayesian Statistics</li>
-      <li>Factor Analysis</li>
-    </ul>
+<p>
+  My main interests include data analysis, data science, Bayesian methods, and factor models, with a growing focus on practical and real-world applications.
+</p>
 
-    <p>
-      I enjoy statistical modeling, Bayesian inference, computational methods and reproducible research.  
-      This portfolio collects selected academic and applied projects.
-    </p>
+<p>
+  This portfolio showcases a mix of personal and academic projects, with an increasing emphasis on hands-on data analysis projects where I explore datasets, develop solutions, and communicate results in a clear and effective way.
+</p>
   </div>
 
 </div>
