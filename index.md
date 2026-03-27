@@ -1,7 +1,7 @@
 <div style="display:flex; align-items:center; gap:35px; margin-top:20px; flex-wrap:wrap;">
 
   
-  <img src="assets/docs/profile_pic.jpg"
+  <img src="assets/docs/professional_pic.jpg"
        alt="Profile photo"
        width="230"
        style="border-radius:12px;
