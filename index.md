@@ -13,16 +13,11 @@
     <h2>About Me</h2>
 
     <p>
-  I’m a recent Statistics graduate with a strong interest in data analysis and data-driven problem solving. 
-  I enjoy working with data to uncover patterns, build models, and turn information into meaningful insights.
+  I’m a Statistics graduate with a strong interest in data analysis and problem solving, focused on turning data into clear, actionable insights.
 </p>
 
 <p>
-  My main interests include data analysis, data science, Bayesian methods, and factor models, with a growing focus on practical and real-world applications.
-</p>
-
-<p>
-  This portfolio showcases a mix of personal and academic projects, with an increasing emphasis on hands-on data analysis projects where I explore datasets, develop solutions, and communicate results in a clear and effective way.
+  This portfolio showcases academic and personal projects, with a growing emphasis on hands-on data analysis and real-world applications.
 </p>
   </div>
 
