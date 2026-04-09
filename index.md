@@ -63,7 +63,8 @@
 
 - Email: massimoarmano.ov@gmail.com  
 - LinkedIn: [Massimo Armano](https://www.linkedin.com/in/massimo-armano-107174176/)  
-- GitHub: [Massimo-ov](https://github.com/Massimo-ov)
+- GitHub: [Massimo-ov](https://github.com/Massimo-ov)  
+- CV: [View my CV](assets/docs/Massimo_Armano_CV.pdf)
 
 ---
 
