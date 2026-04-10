@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang="en">
 <head>
   <meta charset="UTF-8" />
@@ -430,7 +429,7 @@
   <div class="nav-links">
     <a href="#about">About</a>
     <a href="#projects">Projects</a>
-    <a href="assets/docs/Massimo_Armano_CV.pdf" target="_blank" class="nav-cta">CV ↗</a>
+    <a href="assets/docs/CV_Armano_Massimo.pdf" target="_blank" class="nav-cta">CV ↗</a>
   </div>
 </nav>
 
@@ -509,7 +508,7 @@
           <div class="link-sub">Massimo-ov</div>
         </div>
       </a>
-      <a href="assets/docs/Massimo_Armano_CV.pdf" target="_blank" class="contact-link">
+      <a href="assets/docs/CV_Armano_Massimo.pdf" target="_blank" class="contact-link">
         <span class="icon">↓</span>
         <div>
           <div class="link-label">Curriculum Vitae</div>
