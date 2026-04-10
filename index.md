@@ -535,32 +535,28 @@
 
   <div class="projects-grid">
 
-    <div class="project-card featured">
-      <div class="featured-left">
-        <p class="project-type">Master's Thesis</p>
-        <h3>Sparse Bayesian Infinite Factor Model</h3>
-        <p class="subtitle">Application to NIRS Spectroscopy Data</p>
+    <div class="project-card">
+      <p class="project-type">Master's Thesis</p>
+      <h3>Sparse Bayesian Infinite Factor Model</h3>
+      <p class="subtitle">Application to NIRS Spectroscopy Data</p>
+      <p>
+        Application of a sparse Bayesian infinite factor model on near-infrared spectroscopy (NIRS) data.
+        Includes hierarchical modelling, MCMC implementation via Gibbs sampling, posterior shrinkage analysis,
+        and an in-depth interpretability study of latent factor structure. Culminating project of the MSc in
+        Statistics at UniTo.
+      </p>
+      <div class="project-tags">
+        <span class="project-tag">Bayesian statistics</span>
+        <span class="project-tag">Factor models</span>
+        <span class="project-tag">MCMC / Gibbs sampling</span>
+        <span class="project-tag">R</span>
+        <span class="project-tag">NIRS data</span>
+        <span class="project-tag">Dimensionality reduction</span>
       </div>
-      <div class="featured-right">
-        <p>
-          Application of a sparse Bayesian infinite factor model on near-infrared spectroscopy (NIRS) data.
-          Includes hierarchical modelling, MCMC implementation via Gibbs sampling, posterior shrinkage
-          analysis, and an in-depth interpretability study of latent factor structure.
-          Culminating project of the MSc in Statistics at UniTo.
-        </p>
-        <div class="project-tags">
-          <span class="project-tag">Bayesian statistics</span>
-          <span class="project-tag">Factor models</span>
-          <span class="project-tag">MCMC / Gibbs sampling</span>
-          <span class="project-tag">R</span>
-          <span class="project-tag">NIRS data</span>
-          <span class="project-tag">Dimensionality reduction</span>
-        </div>
-        <div class="project-links">
-          <a href="assets/docs/thesis.pdf" target="_blank" class="project-link">↓ Thesis PDF</a>
-          <a href="assets/docs/thesis_pres.pdf" target="_blank" class="project-link">↓ Presentation</a>
-          <a href="https://github.com/Massimo-ov/Master-s-thesis-Sparse-Bayesian-infinite-factor-model-applications-on-NIRS-data-" target="_blank" class="project-link">⌥ GitHub</a>
-        </div>
+      <div class="project-links">
+        <a href="assets/docs/thesis.pdf" target="_blank" class="project-link">↓ Thesis PDF</a>
+        <a href="assets/docs/thesis_pres.pdf" target="_blank" class="project-link">↓ Presentation</a>
+        <a href="https://github.com/Massimo-ov/Master-s-thesis-Sparse-Bayesian-infinite-factor-model-applications-on-NIRS-data-" target="_blank" class="project-link">⌥ GitHub</a>
       </div>
     </div>
 
@@ -569,9 +565,9 @@
       <h3>Variography &amp; Geostatistical Modelling</h3>
       <p class="subtitle">with Matteo Cucca, supervised by R. Ignaccolo (UniTo)</p>
       <p>
-        Exploratory spatial analysis and variogram modelling project. Covers empirical variogram
-        computation, theoretical model fitting (spherical, exponential, Matérn), and kriging
-        interpolation. Fully implemented as a reproducible R Markdown workflow.
+        Exploratory spatial analysis and variogram modelling project. Covers empirical variogram computation,
+        theoretical model fitting (spherical, exponential, Matérn), and kriging interpolation. Fully implemented
+        as a reproducible R Markdown workflow.
       </p>
       <div class="project-tags">
         <span class="project-tag">Spatial statistics</span>
@@ -588,13 +584,14 @@
     </div>
 
     <div class="project-card">
-      <p class="project-type">Short paper — SIS 2026 (submitted)</p>
+      <p class="project-type">Short paper — SIS Roma 2026 (submitted)</p>
       <h3>NIRS Covariates via Sparse Bayesian Infinite Factor Models</h3>
-      <p class="subtitle">with A. Lanteri &amp; G. Kon Kam King · MaIAGE – INRAE</p>
+      <p class="subtitle">with A. Lanteri &amp; G. Kon Kam King · UniTo; MaIAGE – INRAE</p>
       <p>
-        R scripts for the short paper <em>"Including Near-Infrared Spectroscopy Covariates via Sparse
-        Bayesian Infinite Factor Models"</em>, submitted to SIS 2026. Covers the full modelling pipeline:
-        data preprocessing, MCMC sampling, and results reporting for wheat and biscuit-dough NIRS datasets.
+        Short paper <em>"Including Near-Infrared Spectroscopy Covariates via Sparse Bayesian Infinite Factor Models"</em>,
+        submitted to the 53rd Meeting of the Italian Statistical Society (SIS Roma 2026). The GitHub repository covers
+        the full modelling pipeline: data preprocessing, MCMC sampling, and results reporting for wheat and biscuit-dough
+        NIRS datasets.
       </p>
       <div class="project-tags">
         <span class="project-tag">Bayesian factor models</span>
@@ -604,8 +601,7 @@
         <span class="project-tag">Reproducible research</span>
       </div>
       <div class="project-links">
-        <a href="https://github.com/Massimo-ov" target="_blank" class="project-link">⌥ GitHub (coming soon)</a>
-        <span style="font-size:0.72rem;color:var(--text-muted);">· Paper link when published</span>
+        <a href="https://github.com/Massimo-ov/NIRS-via-SBIFM-SIS2026" target="_blank" class="project-link">⌥ GitHub</a>
       </div>
     </div>
 
@@ -619,8 +615,3 @@
 
 </body>
 </html>
----
-
-<p align="center">
-  <sub>© 2025 Massimo Armano — Portfolio powered by GitHub Pages</sub>
-</p>
