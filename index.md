@@ -455,19 +455,22 @@
     <div class="divider"></div>
 
     <div class="bio">
-      <p>
-        I hold a <strong>Master's degree in Statistical and Economic Methods for Decision-Making</strong>
-        (LM-82) from the University of Turin, where I also received the <strong>Thesis Abroad Prize</strong>
-        for a research project carried out at <strong>MaIAGE – INRAE</strong> in France. There, I built
-        predictive and interpretable models for NIRS spectroscopy data and contributed to a short paper
-        submitted to SIS 2026.
-      </p>
-      <p>
-        Motivated, adaptable, and driven by continuous learning, I'm open to opportunities in
-        <strong>data science, data analysis, data engineering</strong>, and every related field where
-        data and analytical thinking can generate real value.
-      </p>
-    </div>
+  <p>
+    I hold a <strong>Master's degree in Statistical and Economic Methods for Decision-Making</strong>
+    (LM-82) from the University of Turin, where I also received the <strong>Thesis Abroad Prize</strong>
+    for a research project carried out at <strong>MaIAGE – INRAE</strong> in France. There, I implemented
+    and applied a <strong>Bayesian factor model</strong> to <strong>wheat and biscuit NIRS data</strong>.
+  </p>
+  <p>
+    Following my graduation, I continued to freelance working on this research through a collaboration between the
+    <strong>University of Turin</strong> and <strong>MaIAGE – INRAE</strong>, with a temporary academic
+    affiliation at the <strong>Department of Economics and Statistics “Cognetti De Martiis”</strong>.
+    This led to a co-authored short paper on Bayesian factor models for NIRS data, submitted to SIS 2026.
+    Motivated, adaptable, and driven by continuous learning, I'm open to opportunities in
+    <strong>data science, data analysis, data engineering</strong>, and related fields where data and
+    analytical thinking can generate real value.
+  </p>
+</div>
 
     <div class="skills-strip">
       <span class="skill-tag">Python</span>
@@ -538,9 +541,9 @@
     <div class="project-card">
       <p class="project-type">Master's Thesis</p>
       <h3>Sparse Bayesian Infinite Factor Model</h3>
-      <p class="subtitle">Application to NIRS Spectroscopy Data</p>
+      <p class="subtitle">Application to NIRS Spectroscopy Data, Supervisors: A. Lanteri, G. Kon Kam King</p>
       <p>
-        Application of a sparse Bayesian infinite factor model on near-infrared spectroscopy (NIRS) data.
+        Application of a sparse Bayesian infinite factor model on biscuit dough and wheat near-infrared spectroscopy (NIRS) data.
         Includes hierarchical modelling, MCMC implementation via Gibbs sampling, posterior shrinkage analysis,
         and an in-depth interpretability study of latent factor structure. Culminating project of the MSc in
         Statistics at UniTo.
@@ -590,7 +593,7 @@
       <p>
         Short paper <em>"Including Near-Infrared Spectroscopy Covariates via Sparse Bayesian Infinite Factor Models"</em>,
         submitted to the 53rd Meeting of the Italian Statistical Society (SIS Roma 2026). The GitHub repository covers
-        the full modelling pipeline: data preprocessing, MCMC sampling, and results reporting for wheat and biscuit-dough
+        the full modelling pipeline: data preprocessing, MCMC sampling, and results reporting for biscuit-dough
         NIRS datasets.
       </p>
       <div class="project-tags">
