@@ -639,7 +639,7 @@
 
   <div class="project-links">
     <a href="https://github.com/Massimo-ov/Road-Accidents-Analysis-in-Italy-ISTAT-2024" target="_blank" class="project-link">⌥ GitHub</a>
-    <a href="https://github.com/Massimo-ov/Road-Accidents-Analysis-in-Italy-ISTAT-2024/blob/main/progetto_incidenti.pbix" target="_blank" class="project-link">📊 Power BI Report</a>
+    <a href="https://app.powerbi.com/reportEmbed?reportId=adbe6680-eda5-4a15-a69e-f2020e3857c4&autoAuth=true&ctid=ca936f2b-b15a-4bc2-b91f-7ccbd76fa7d1" class="project-link">📊 Power BI Report</a>
     <a href="https://github.com/Massimo-ov/Road-Accidents-Analysis-in-Italy-ISTAT-2024/blob/main/progetto_incidenti.pdf" target="_blank" class="project-link">📄 Dashboard PDF</a>
   </div>
 </div>
