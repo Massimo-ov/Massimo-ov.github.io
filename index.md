@@ -638,21 +638,9 @@
   </div>
 
   <div class="project-links">
-    <a href="https://github.com/Massimo-ov/Road-Accidents-Analysis-in-Italy-ISTAT-2024/blob/main/cleaning_incidenti.py" target="_blank" class="project-link">
-      🐍 Python Script
-    </a>
-
-    <a href="https://github.com/Massimo-ov/Road-Accidents-Analysis-in-Italy-ISTAT-2024/blob/main/analisi_incidenti.sql" target="_blank" class="project-link">
-      🗄️ SQL Script
-    </a>
-
-    <a href="https://github.com/Massimo-ov/Road-Accidents-Analysis-in-Italy-ISTAT-2024/blob/main/progetto_incidenti.pbix" target="_blank" class="project-link">
-      📊 Power BI Report
-    </a>
-
-    <a href="https://github.com/Massimo-ov/Road-Accidents-Analysis-in-Italy-ISTAT-2024/blob/main/progetto_incidenti.pdf" target="_blank" class="project-link">
-      📄 Dashboard PDF
-    </a>
+    <a href="https://github.com/Massimo-ov/Road-Accidents-Analysis-in-Italy-ISTAT-2024" target="_blank" class="project-link">⌥ GitHub</a>
+    <a href="https://github.com/Massimo-ov/Road-Accidents-Analysis-in-Italy-ISTAT-2024/blob/main/progetto_incidenti.pbix" target="_blank" class="project-link">📊 Power BI Report</a>
+    <a href="https://github.com/Massimo-ov/Road-Accidents-Analysis-in-Italy-ISTAT-2024/blob/main/progetto_incidenti.pdf" target="_blank" class="project-link">📄 Dashboard PDF</a>
   </div>
 </div>
 
