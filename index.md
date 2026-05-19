@@ -608,6 +608,54 @@
       </div>
     </div>
 
+<div class="project-card">
+  <p class="project-type">End-to-end educational data analytics project</p>
+
+  <h3>Road Accidents Analysis in Italy — ISTAT 2024</h3>
+
+  <p class="subtitle">
+    Python · SQL · Power BI · Data Cleaning · Data Visualization
+  </p>
+
+  <p>
+    End-to-end educational data analytics project based on ISTAT Italian road accidents microdata.
+    The workflow included data cleaning with Python, SQL-based data modeling and aggregations,
+    and interactive dashboard development in Power BI to explore accident distribution,
+    mortality rates, road types, weather conditions, and temporal patterns.
+  </p>
+
+  <div class="project-tags">
+    <span class="project-tag">Python</span>
+    <span class="project-tag">Pandas</span>
+    <span class="project-tag">SQL</span>
+    <span class="project-tag">SQLite</span>
+    <span class="project-tag">Power BI</span>
+    <span class="project-tag">Data Cleaning</span>
+    <span class="project-tag">Data Modeling</span>
+    <span class="project-tag">DAX</span>
+    <span class="project-tag">Data Visualization</span>
+    <span class="project-tag">Business Intelligence</span>
+  </div>
+
+  <div class="project-links">
+    <a href="https://github.com/Massimo-ov/Road-Accidents-Analysis-in-Italy-ISTAT-2024/blob/main/cleaning_incidenti.py" target="_blank" class="project-link">
+      🐍 Python Script
+    </a>
+
+    <a href="https://github.com/Massimo-ov/Road-Accidents-Analysis-in-Italy-ISTAT-2024/blob/main/analisi_incidenti.sql" target="_blank" class="project-link">
+      🗄️ SQL Script
+    </a>
+
+    <a href="https://github.com/Massimo-ov/Road-Accidents-Analysis-in-Italy-ISTAT-2024/blob/main/progetto_incidenti.pbix" target="_blank" class="project-link">
+      📊 Power BI Report
+    </a>
+
+    <a href="https://github.com/Massimo-ov/Road-Accidents-Analysis-in-Italy-ISTAT-2024/blob/main/progetto_incidenti.pdf" target="_blank" class="project-link">
+      📄 Dashboard PDF
+    </a>
+  </div>
+</div>
+
   </div>
 
   <a href="#about" class="back-top">↑ back to top</a>
