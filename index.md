@@ -587,26 +587,27 @@
     </div>
 
     <div class="project-card">
-      <p class="project-type">Short paper — SIS Roma 2026 (submitted)</p>
-      <h3>NIRS Covariates via Sparse Bayesian Infinite Factor Models</h3>
-      <p class="subtitle">with A. Lanteri &amp; G. Kon Kam King · UniTo; MaIAGE – INRAE</p>
-      <p>
-        Short paper <em>"Including Near-Infrared Spectroscopy Covariates via Sparse Bayesian Infinite Factor Models"</em>,
-        submitted to the 53rd Meeting of the Italian Statistical Society (SIS Roma 2026). The GitHub repository covers
-        the full modelling pipeline: data preprocessing, MCMC sampling, and results reporting for biscuit-dough
-        NIRS datasets.
-      </p>
-      <div class="project-tags">
-        <span class="project-tag">Bayesian factor models</span>
-        <span class="project-tag">NIRS</span>
-        <span class="project-tag">R</span>
-        <span class="project-tag">MCMC</span>
-        <span class="project-tag">Reproducible research</span>
-      </div>
-      <div class="project-links">
-        <a href="https://github.com/Massimo-ov/NIRS-via-SBIFM-SIS2026" target="_blank" class="project-link">⌥ GitHub</a>
-      </div>
-    </div>
+  <p class="project-type">Short paper — SIS Roma 2026 (published)</p>
+  <h3>NIRS Covariates via Sparse Bayesian Infinite Factor Models</h3>
+  <p class="subtitle">with A. Lanteri &amp; G. Kon Kam King · UniTo; MaIAGE – INRAE</p>
+  <p>
+    Short paper <em>"Including Near-Infrared Spectroscopy Covariates via Sparse Bayesian Infinite Factor Models"</em>,
+    published in the proceedings of the 53rd Meeting of the Italian Statistical Society (SIS Roma 2026),
+    Springer. The GitHub repository covers the full modelling pipeline: data preprocessing, MCMC sampling,
+    and results reporting for biscuit-dough NIRS datasets.
+  </p>
+  <div class="project-tags">
+    <span class="project-tag">Bayesian factor models</span>
+    <span class="project-tag">NIRS</span>
+    <span class="project-tag">R</span>
+    <span class="project-tag">MCMC</span>
+    <span class="project-tag">Reproducible research</span>
+  </div>
+  <div class="project-links">
+    <a href="https://github.com/Massimo-ov/NIRS-via-SBIFM-SIS2026" target="_blank" class="project-link">⌥ GitHub</a>
+    <a href="https://doi.org/10.1007/978-3-032-30877-1_21" target="_blank" class="project-link">⌥ Springer (DOI)</a>
+  </div>
+</div>
 
 <div class="project-card">
   <p class="project-type">End-to-end educational data analytics project</p>
